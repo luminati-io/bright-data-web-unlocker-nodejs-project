@@ -1,7 +1,13 @@
 {
-  "name": "node-starter",
+  "name": "starter",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  "version": "1.0.0",
+  "description": "[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/anil-bd/bright-data-web-unlocker-nodejs-project)",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
