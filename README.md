@@ -11,14 +11,14 @@ This StackBlitz project demonstrates how to use Bright Data's Web Unlocker API t
 This script helps you access websites with anti-bot protection or CAPTCHAs by using Bright Data's Web Unlocker to automatically bypass these obstacles.
 
 
-### Using Environment Variables in StackBlitz
+### Using environment variables in StackBlitz
 
 1. Select the `.env` file
 2. Add the following variables:
    - `BRIGHT_DATA_API_TOKEN`: Your Bright Data [API Token](https://docs.brightdata.com/general/account/api-token)
    - `BRIGHT_DATA_ZONE`: Your Bright Data [Zone](https://brightdata.com/cp/zones) name (e.g., `web_unlocker1`)
 
-### Direct Configuration
+### Direct configuration
 
 Alternatively, edit the CONFIG object directly in the script:
 
@@ -30,7 +30,7 @@ const CONFIG = {
 };
 ```
 
-## Running the Example
+## Running the example
 
 1. Make sure you've configured your `API token` and `zone`
 2. Run `node index.js` in the terminal
@@ -51,13 +51,13 @@ If you encounter errors:
 - Check that your zone name is valid
 - Ensure your target URL is properly formatted
 
-## Modifying the Example
+## Modifying the example
 
 To request a different URL:
 1. Update the `targetUrl` in the CONFIG object
 2. Run the script again
 
-## Additional Resources
+## Additional resources
 
 - [Bright Data Web Unlocker API](https://docs.brightdata.com/scraping-automation/web-unlocker/introduction)
 - [Get an API Token](https://docs.brightdata.com/general/account/api-token)
