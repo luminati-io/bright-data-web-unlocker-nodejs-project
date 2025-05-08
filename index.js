@@ -23,7 +23,7 @@ const CONFIG = {
   
       console.log(`🔄 Fetching ${CONFIG.targetUrl} through Bright Data Unlcoker...`);
       
-      const response = await fetch(CONFIG.apiEndpoint, {
+      const response = await fetch('https://api.brightdata.com/request', {
         method: 'POST',
         headers: {
           'Authorization': `Bearer ${CONFIG.apiToken}`,
