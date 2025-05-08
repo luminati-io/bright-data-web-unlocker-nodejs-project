@@ -1,6 +1,6 @@
 # Bright Data Web Unlocker Nodejs project
 
-[Edit in StackBlitz editor ⚡️](https://stackblitz.com/~/github.com/anil-bd/bright-data-web-unlocker-nodejs-project?file=index.js)
+[Edit in StackBlitz editor ⚡️](https://stackblitz.com/~/github.com/luminati-io/bright-data-web-unlocker-nodejs-project?file=index.js)
 
 ## Bright Data Web Unlocker API Example
 
