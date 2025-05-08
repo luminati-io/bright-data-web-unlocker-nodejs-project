@@ -5,8 +5,8 @@
 
 // Configuration - Update these values
 const CONFIG = {
-    apiToken: process.env.BRIGHT_DATA_API_TOKEN || 'YOUR_API_TOKEN', // Use environment variables for secrets
-    zone: process.env.BRIGHT_DATA_ZONE || 'web_unlocker1',
+    apiToken: process.env.BRIGHT_DATA_API_TOKEN || 'YOUR_API_TOKEN', // Get your API token here: https://brightdata.com/cp/setting/users
+    zone: process.env.BRIGHT_DATA_ZONE || 'web_unlocker1', // Get your zone here: https://brightdata.com/cp/zones 
     targetUrl: 'https://geo.brdtest.com/welcome.txt'
   };
   
@@ -62,7 +62,7 @@ const CONFIG = {
   
   /**
    * How to use this script:
-   * 1. Get your API token from https://docs.brightdata.com/general/account/api-token
+   * 1. Get your API token from https://brightdata.com/cp/setting/users, more details https://docs.brightdata.com/general/account/api-token
    * 2. Choose your zone from https://brightdata.com/cp/zones
    * 3. Set your target URL
    * 4. For better security, set environment variables:
