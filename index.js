@@ -25,7 +25,7 @@ const CONFIG = {
         console.warn('⚠️ Please set your actual API token before making requests');
       }
   
-      console.log(`🔄 Fetching ${CONFIG.targetUrl} through Bright Data Unlcoker...`);
+      console.log(`🔄 Fetching ${CONFIG.targetUrl} through Bright Data Unlocker...`);
       
       const response = await fetch('https://api.brightdata.com/request', {
         method: 'POST',
