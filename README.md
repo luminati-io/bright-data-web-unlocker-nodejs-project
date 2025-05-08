@@ -4,7 +4,7 @@
 
 ## Bright Data Web Unlocker API Example
 
-This StackBlitz project demonstrates how to use Bright Data's Web Unlocker API to access websites through Bright Data Web Unlocker API.
+This project demonstrates how to use Bright Data's Web Unlocker API to access websites through Bright Data Web Unlocker API.
 
 ## Overview
 
