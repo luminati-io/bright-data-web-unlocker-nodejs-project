@@ -6,7 +6,7 @@
 // Configuration - Update these values
 const CONFIG = {
     // Step 1: Get your API token here: https://brightdata.com/cp/setting/users
-    apiToken: process.env.BRIGHT_DATA_API_TOKEN || '441ad31b9e51f49ffbbb65d0223d426b15d76e5ac9b8befa23d758634be163a4', 
+    apiToken: process.env.BRIGHT_DATA_API_TOKEN || 'YOUR_API_KEY', 
     // Step 2: Get your zone here: https://brightdata.com/cp/zones 
     zone: process.env.BRIGHT_DATA_ZONE || 'web_unlocker1', 
     // Step 3: Set your target URL
