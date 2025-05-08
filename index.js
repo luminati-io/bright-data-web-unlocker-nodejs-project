@@ -5,9 +5,13 @@
 
 // Configuration - Update these values
 const CONFIG = {
-    apiToken: process.env.BRIGHT_DATA_API_TOKEN || 'YOUR_API_TOKEN', // Get your API token here: https://brightdata.com/cp/setting/users
-    zone: process.env.BRIGHT_DATA_ZONE || 'web_unlocker1', // Get your zone here: https://brightdata.com/cp/zones 
+    // Step 1: Get your API token here: https://brightdata.com/cp/setting/users
+    apiToken: process.env.BRIGHT_DATA_API_TOKEN || '441ad31b9e51f49ffbbb65d0223d426b15d76e5ac9b8befa23d758634be163a4', 
+    // Step 2: Get your zone here: https://brightdata.com/cp/zones 
+    zone: process.env.BRIGHT_DATA_ZONE || 'web_unlocker1', 
+    // Step 3: Set your target URL
     targetUrl: 'https://geo.brdtest.com/welcome.txt'
+    // Step 4: Run `node index.js` commend on terminal
   };
   
   /**
