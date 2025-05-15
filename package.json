@@ -5,7 +5,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "version": "1.0.0",
-  "description": "[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/anil-bd/bright-data-web-unlocker-nodejs-project)",
+  "description": "[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/luminati-io/bright-data-web-unlocker-nodejs-project?file=index.js)",
   "main": "index.js",
   "keywords": [],
   "author": "",
