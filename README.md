@@ -1,10 +1,11 @@
 # Bright Data Web Unlocker Nodejs project
+[![Bright Data Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/)
 
 [Edit in StackBlitz editor ⚡️](https://stackblitz.com/~/github.com/luminati-io/bright-data-web-unlocker-nodejs-project?file=index.js)
 
 ## Bright Data Web Unlocker API Example
 
-This project demonstrates how to use Bright Data's Web Unlocker API to access websites through Bright Data Web Unlocker API.
+This project demonstrates how to use Bright Data's [Unlocker API](https://brightdata.com/products/web-unlocker) to access websites through Bright Data [Unlocker API](https://brightdata.com/products/web-unlocker).
 
 ## Overview
 
